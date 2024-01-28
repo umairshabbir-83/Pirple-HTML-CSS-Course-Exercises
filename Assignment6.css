@@ -1,0 +1,47 @@
+.Body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.Heading {
+  color: purple;
+  font-family: monospace;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.SubHeading {
+  color: purple;
+  font-family: monospace;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.Ordered {
+  color: yellowgreen;
+  font-size: 20px;
+}
+
+#Peragraph {
+  color: aquamarine;
+  font-size: 20px;
+}
+
+#Unordered {
+  color: yellowgreen;
+  font-size: 20px;
+}
+
+#Footer {
+  color: purple;
+  font-family: monospace;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
